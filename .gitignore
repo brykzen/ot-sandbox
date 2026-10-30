@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs y datos locales de pruebas OT
+*.log
+data/
